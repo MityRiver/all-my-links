@@ -11,7 +11,7 @@ body {
     min-height: 100vh;
     min-width: 100vw;
     background-color: black;
-    background: url(midia/imagens/fundo.png) no-repeat;
+    background: url(midia/imagens/fundo.png);
     background-size: cover;
 }
 
