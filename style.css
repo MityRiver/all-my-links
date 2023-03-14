@@ -7,11 +7,12 @@
 
 body {
     margin: 0px;
+    position: absolute;
 
     min-height: 100vh;
     min-width: 100vw;
     background-color: black;
-    background: url(midia/imagens/fundo.png) no-repeat;
+    background: url(midia/imagens/fundo.png);
     background-size: cover;
 }
 
@@ -52,6 +53,6 @@ iframe#tela {
     left: 19px;
     border-radius: 20px;
 
-    height: 473px;
-    width: 218px;
+    height: 504px;
+    width: 231px;
 }
