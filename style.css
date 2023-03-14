@@ -7,6 +7,7 @@
 
 body {
     margin: 0px;
+
     position: absolute;
     min-height: 100vh;
     min-width: 100vw;
@@ -29,6 +30,10 @@ section#telefone {
     width: 376px;
     height: 570px;
     background: url(midia/imagens/frame-iphone2.png) no-repeat;
+}
+
+section#redes-sociais {
+    text-align: right;
 }
 
 section#redes-sociais img {
