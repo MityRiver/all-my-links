@@ -8,11 +8,10 @@
 body {
     margin: 0px;
 
-    position: absolute;
     min-height: 100vh;
     min-width: 100vw;
     background-color: black;
-    background: url(midia/imagens/fundo.png);
+    background: url(midia/imagens/fundo.png) no-repeat;
     background-size: cover;
 }
 
@@ -30,10 +29,6 @@ section#telefone {
     width: 376px;
     height: 570px;
     background: url(midia/imagens/frame-iphone2.png) no-repeat;
-}
-
-section#redes-sociais {
-    text-align: right;
 }
 
 section#redes-sociais img {
