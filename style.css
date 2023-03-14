@@ -55,10 +55,10 @@ section#redes-sociais img:hover {
 
 iframe#tela {
     position: relative;
-    top: 17px;
-    left: 70px;
-    border-radius: 30px;
+    top: 16px;
+    left: 64px;
+    border-radius: 20px;
 
-    height: 519px;
-    width: 240px;
+    height: 473px;
+    width: 218px;
 }
