@@ -34,10 +34,6 @@ section#telefone {
     background: url(midia/imagens/frame-iphone2.png) no-repeat;
 }
 
-section#redes-sociais {
-    text-align: right;
-}
-
 section#redes-sociais img {
     width: 50px; /* quando mechemos no width ele ja meche na altura automaticamente */
     margin: 10px;
