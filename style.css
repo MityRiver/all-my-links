@@ -12,6 +12,7 @@ body {
     width: 100vw;
     background-color: black;
     background: url(midia/imagens/fundo.png);
+    background-attachment: fixed;
     background-size: cover;
 }
 
