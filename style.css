@@ -54,3 +54,8 @@ iframe#tela {
     height: 504px;
     width: 231px;
 }
+
+::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}
